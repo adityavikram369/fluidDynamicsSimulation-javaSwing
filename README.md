@@ -1,4 +1,4 @@
-# fluidDynamics-javaSwing
+# fluidDynamicsSimulation-javaSwing
 
 #Fluid Dynamics Simulation
 -Created a ParticleCell class which contains an array of particles
